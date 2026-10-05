@@ -1,0 +1,7 @@
+tabpfn
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+# optional, for the hosted API backend: tabpfn-client
